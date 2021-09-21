@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: #0C2426;
+    padding: 18px;
+}
+.nombre, .cargo{
+    display: inline-block;
+    width: 600px;
+    text-align: center;
+    color: white;
+}
+.nombre{
+    font-weight: 900;
+}
+.cargo{
+    font-weight: 100;
+}
+
+.subtitulo{
+    background-color: #3DB4BF;
+    text-align: center;
+    padding: 10px;
+}
+
+.contenido{
+    width: 960px;
+    height: 200px;
+    margin: auto;
+}
+.estructura{
+    font-size: 36px;
+}
+.titulo{
+    font-size: 22px;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+    margin-top: 20px;
+}
+.descripcion{
+    margin: 0;
+    opacity: 0.6;
+}
+.espacio{
+    margin-top: 70px;
+}
+.primero{
+    display: inline-block;
+    width: 69%;
+    vertical-align: top;
+}
+.segundo{
+    display: inline-block;
+    width: 30%;
+    margin-top: 20px;
+}
+.redes{
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 0;
+    margin-left: 30px;
+    padding: 40px;
+}
